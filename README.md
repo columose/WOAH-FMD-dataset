@@ -61,3 +61,27 @@ A linear regression model revealed the 'case' count predicts 99.8% of variance i
 Choropleth maps provide a nice persective on trends across neighbouring countries. For example, most outbreaks are occuring across neighbouring Asian countries.
 
 <img src = 'https://drive.google.com/uc?id=1s6d97Kls5Z6U7svjdJETS0GD410TWjgw'>
+
+**Discussion
+
+Some of the main take-home points are:
+
+* The majority of FMD cases and outbreaks occur in Asia.
+* The inexplicably high slaughtering count in South Africa could be followed up on.
+* European countries have dealt with FMD outbreaks through mass culling.
+
+**Limitations
+
+More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an r squared value of .46. Additional variables such as 'flock count' could improve the model's accuracy.
+
+**Datasets: raw, cleaned, grouped**
+
+The raw dataset was sourced from the WOAH's animal information system
+ at https://wahis.woah.org/#/dashboards/qd-dashboard.
+
+[Clean data](https://drive.google.com/file/d/1_7HGF96LRCa3UUsiVRKSwSh6lf4mswRV/view?usp=drive_link)
+
+[Data summed and grouped by world region for time-series ploting](https://drive.google.com/file/d/1EG-H1wYbE5k1kQ1nsgEmhity_JAHODQK/view?usp=sharing)
+
+[Data summed and grouped by country for choropleth maps](https://drive.google.com/file/d/1hHRCTFCBasPDwvNNhQSMXMGOKVBAUt50/view?usp=sharing)
+
