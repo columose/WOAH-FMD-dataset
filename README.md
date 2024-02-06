@@ -4,7 +4,7 @@
 * [Summary](#Summary)
 * [Objectives](#Objectives)
 * [Methods](#Methods)
-* [Overview of dataset](#Overview-of-dataset)
+* [Overview of the dataset](#Overview-of-the-dataset)
 * [Results (in brief)](#Results)
 * [Discussion](#Discussion)
 * [Limitations](#Limitations)
