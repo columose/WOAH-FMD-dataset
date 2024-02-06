@@ -34,6 +34,7 @@ The majority of FMD outbreaks and cases occurred in Africa and Asia, with as few
 
 <img src = 'https://drive.google.com/uc?id=1bM-4_XNK9MNdOqeAupqi-LevaY-mzu3v1'>
 
+
 ## Results
 Asia experienced a spike in new outbreaks around 2022, coupled by an increase in cases and vaccinated. There was an inexplicably high slaughter rate in Africa that same year, despite the lack of new FWD cases on the continent. Counts
 were low across Europe and the Americas.
