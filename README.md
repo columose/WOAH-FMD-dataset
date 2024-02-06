@@ -8,7 +8,7 @@
 * [Results (in brief)](#Results-(in-brief)]
 * [Discussion](#Discussion)
 * [Limitations](#Limitations)
-* [Datasets: raw, cleaned, grouped](#Datasets:-raw,-cleaned,-grouped)
+* [Datasets: raw, cleaned, grouped](#Datasets-raw-cleaned-grouped)
 
 ## Summary
 * The dataset was heavily dominated by FMD incidents in Africa and Asia.
