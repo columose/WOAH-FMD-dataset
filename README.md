@@ -3,12 +3,12 @@
 ## Table of Contents
 * [Summary](#Summary)
 * [Objectives](#Objectives)
-* Methods
-* Overview of dataset
-* Results (in brief)
+* [Methods](#Methods)
+* [Overview of dataset](#Overview-of-dataset)
+* [Results (in brief)](#Results-(in-brief)]
 * [Discussion](#Discussion)
-* Limitations
-* Datasets: raw, cleaned, grouped
+* [Limitations](#Limitations)
+* [Datasets: raw, cleaned, grouped](#Datasets:-raw,-cleaned,-grouped)
 
 ## Summary
 * The dataset was heavily dominated by FMD incidents in Africa and Asia.
