@@ -32,7 +32,7 @@ Analyse FMD dataset to explore regional trends over time, determine the efficacy
 ## Overview of the dataset
 The majority of FMD outbreaks and cases occurred in Africa and Asia, with as few as 3 European countries reporting outbreaks since 2005.
 
-<img src = 'https://drive.google.com/uc?id=1jt9cwg6YEwzh510e6ZfpmeSB74YtD331'>
+<img src = 'https://drive.google.com/uc?id=1bM-4_XNK9MNdOqeAupqi-LevaY-mzu3v1'>
 
 ## Results
 Asia experienced a spike in new outbreaks around 2022, coupled by an increase in cases and vaccinated. There was an inexplicably high slaughter rate in Africa that same year, despite the lack of new FWD cases on the continent. Counts
@@ -72,7 +72,7 @@ Some of the main take-home points are:
 
 ## Limitations
 
-More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an r^2 value of .46. Additional variables such as 'flock count' could improve the model's performance.
+More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an $r_{2}$ value of .46. Additional variables such as 'flock count' could improve the model's performance.
 
 ## Datasets: raw, cleaned, grouped
 
