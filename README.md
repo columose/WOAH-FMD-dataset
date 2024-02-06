@@ -35,34 +35,34 @@ The majority of FMD outbreaks and cases occurred in Africa and Asia, with as few
 <img src = 'https://drive.google.com/uc?id=1jt9cwg6YEwzh510e6ZfpmeSB74YtD331'>
 
 ## Results(in brief)
-Asia experienced a spike in new outbreaks around 2022, coupled by an increase in cases and vaccinated. There was an inexplicably high slaughter rate in Africa that same year, despite the lack of new FWD cases on the continent. Counts
+### Asia experienced a spike in new outbreaks around 2022, coupled by an increase in cases and vaccinated. There was an inexplicably high slaughter rate in Africa that same year, despite the lack of new FWD cases on the continent. Counts
 were low across Europe and the Americas.
 
 <img src = 'https://drive.google.com/uc?id=1CKTJVX-taw5N0PAMC7qHsUV3NNQr8xjJ'>
 
 
-The top 5 highest slaughtering count events in the dataset occurred in South Africa between 2021-2022.
+### The top 5 highest slaughtering count events in the dataset occurred in South Africa between 2021-2022.
 
 <img src = 'https://drive.google.com/uc?id=1-0jQr56Jgou70rgFkQEwXzV57dBFGZny'>
 
 
-Baselining provides a different outlook on the data as trends in Europe and America become visible. There was a very clear spike in 'cases' and 'killed and disposed of' in Europe
+### Baselining provides a different outlook on the data as trends in Europe and America become visible. There was a very clear spike in 'cases' and 'killed and disposed of' in Europe
 
 <img src = 'https://drive.google.com/uc?id=1CKTJVX-taw5N0PAMC7qHsUV3NNQr8xjJ'>
 
-Some variables are strongly correlated within world regions.'Cases' and 'killed and disposed of are perfectly positively correlated in Europe, as was indicative from the baselined time-series plot.
+### Some variables are strongly correlated within world regions.'Cases' and 'killed and disposed of are perfectly positively correlated in Europe, as was indicative from the baselined time-series plot.
 
 <img src = 'https://drive.google.com/uc?id=1zmud3qE-K764Xiyc9cUy1lqM4BPrtq86'>
 
-A linear regression model revealed the 'case' count predicts 99.8% of variance in 'killed and disposed of' in Europe. In other words, the 3 European countries that have reported FMD outbreaks in the past 20 years have dealt with the outbreaks through culling en-masse.
+### A linear regression model revealed the 'case' count predicts 99.8% of variance in 'killed and disposed of' in Europe. In other words, the 3 European countries that have reported FMD outbreaks in the past 20 years have dealt with the outbreaks through culling en-masse.
 
 <img src = 'https://drive.google.com/uc?id=1-8VmFZr2jAMQYo-PnWEPitq6BvvkuZrQ'>
 
-Choropleth maps provide a nice persective on trends across neighbouring countries. For example, most outbreaks are occuring across neighbouring Asian countries.
+### Choropleth maps provide a nice persective on trends across neighbouring countries. For example, most outbreaks are occuring across neighbouring Asian countries.
 
 <img src = 'https://drive.google.com/uc?id=1s6d97Kls5Z6U7svjdJETS0GD410TWjgw'>
 
-**Discussion
+## Discussion
 
 Some of the main take-home points are:
 
@@ -70,11 +70,11 @@ Some of the main take-home points are:
 * The inexplicably high slaughtering count in South Africa could be followed up on.
 * European countries have dealt with FMD outbreaks through mass culling.
 
-**Limitations
+## Limitations
 
 More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an r squared value of .46. Additional variables such as 'flock count' could improve the model's accuracy.
 
-**Datasets: raw, cleaned, grouped**
+## Datasets: raw, cleaned, grouped
 
 The raw dataset was sourced from the WOAH's animal information system
  at https://wahis.woah.org/#/dashboards/qd-dashboard.
