@@ -72,7 +72,7 @@ Some of the main take-home points are:
 
 ## Limitations
 
-More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an $r_{2}$ value of .46. Additional variables such as 'flock count' could improve the model's performance.
+More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an $r^{2}$ value of .46. Additional variables such as 'flock count' could improve the model's performance.
 
 ## Datasets: raw, cleaned, grouped
 
