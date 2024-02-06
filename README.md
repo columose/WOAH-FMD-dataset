@@ -23,7 +23,7 @@ Analyse FMD dataset to explore regional trends over time, determine the efficacy
 * Descriptive statistics.
 * Time-series analysis of countries grouped by world region.
 * Plotting outliers.
-* Baselining data to detect trends in world regions with fewer counts accross variables.
+* Baselining data to detect trends in world regions with fewer counts across variables.
 * Correlation matrices within world regions to explore relationships between variables.
 * Post-hoc regression analysis to determine whether 'cases' in Europe can predict 'killed and disposed of' (culling).
 * Create choropleth maps for each FMD variable to understand trends between neighbouring countries.
@@ -72,7 +72,7 @@ Some of the main take-home points are:
 
 ## Limitations
 
-More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an r squared value of .46. Additional variables such as 'flock count' could improve the model's accuracy.
+More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an r^2 value of .46. Additional variables such as 'flock count' could improve the model's performance.
 
 ## Datasets: raw, cleaned, grouped
 
