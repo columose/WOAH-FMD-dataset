@@ -5,7 +5,7 @@
 * [Objectives](#Objectives)
 * [Methods](#Methods)
 * [Overview of dataset](#Overview-of-dataset)
-* [Results (in brief)](#Results-in-brief]
+* [Results in brief](#Results-in-brief]
 * [Discussion](#Discussion)
 * [Limitations](#Limitations)
 * [Datasets: raw, cleaned, grouped](#Datasets-raw-cleaned-grouped)
