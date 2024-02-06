@@ -1,12 +1,12 @@
 # World Organisation of Animal Health: Foot and mouth disease dataset project
 
 ## Table of Contents
-* [Summary](Summary)
-* Objectives
+* [Summary](#Summary)
+* [Objectives](#Objectives)
 * Methods
 * Overview of dataset
 * Results (in brief)
-* Discussion
+* [Discussion](#Discussion)
 * Limitations
 * Datasets: raw, cleaned, grouped
 
