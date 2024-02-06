@@ -23,7 +23,7 @@ Analyse FMD dataset to explore regional trends over time, determine the efficacy
 * Descriptive statistics.
 * Time-series analysis of countries grouped by world region.
 * Plotting outliers.
-* Baselining count data to detect trends in world regions with fewer counts accross variables.
+* Baselining data to detect trends in world regions with fewer counts accross variables.
 * Correlation matrices within world regions to explore relationships between variables.
 * Post-hoc regression analysis to determine whether 'cases' in Europe can predict 'killed and disposed of' (culling).
 * Create choropleth maps for each FMD variable to understand trends between neighbouring countries.
