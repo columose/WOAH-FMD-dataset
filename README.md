@@ -75,11 +75,11 @@ More data is required to perform more advanced regression analyses. A random for
 
 ## Datasets: raw, cleaned, grouped
 
-The raw dataset was sourced from the [WOAH's animal information system](https://wahis.woah.org/#/dashboards/qd-dashboard).
+* The raw dataset was sourced from the [WOAH's animal information system](https://wahis.woah.org/#/dashboards/qd-dashboard).
 
-[Clean data](https://drive.google.com/file/d/1_7HGF96LRCa3UUsiVRKSwSh6lf4mswRV/view?usp=drive_link)
+* [Clean data](https://drive.google.com/file/d/1_7HGF96LRCa3UUsiVRKSwSh6lf4mswRV/view?usp=drive_link)
 
-[Data summed and grouped by world region for time-series ploting](https://drive.google.com/file/d/1EG-H1wYbE5k1kQ1nsgEmhity_JAHODQK/view?usp=sharing)
+* [Data summed and grouped by world region for time-series ploting](https://drive.google.com/file/d/1EG-H1wYbE5k1kQ1nsgEmhity_JAHODQK/view?usp=sharing)
 
-[Data summed and grouped by country for choropleth maps](https://drive.google.com/file/d/1hHRCTFCBasPDwvNNhQSMXMGOKVBAUt50/view?usp=sharing)
+* [Data summed and grouped by country for choropleth maps](https://drive.google.com/file/d/1hHRCTFCBasPDwvNNhQSMXMGOKVBAUt50/view?usp=sharing)
 
