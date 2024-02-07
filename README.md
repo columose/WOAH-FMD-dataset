@@ -27,7 +27,7 @@ Analyse FMD dataset to explore regional trends over time, determine the efficacy
 * Correlation matrices within world regions to explore relationships between variables.
 * Post-hoc regression analysis to determine whether 'cases' in Europe can predict 'killed and disposed of' (culling).
 * Create choropleth maps for each FMD variable to understand trends between neighbouring countries.
-* Cluster analysis to group countries with similar counts (e.g. vaccination rate), and plot on a choropleth map.
+* Cluster analysis to group countries with similar counts on a variable (e.g. vaccination rate), and plot on a choropleth map.
 
 ## Overview of the dataset
 The majority of FMD outbreaks and cases occurred in Africa and Asia, with as few as 3 European countries reporting outbreaks since 2005.
