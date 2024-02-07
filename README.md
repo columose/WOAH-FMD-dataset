@@ -49,7 +49,7 @@ Baselining provides a different outlook on the data as trends in Europe and Amer
 
 <img src = 'https://drive.google.com/uc?id=1CKTJVX-taw5N0PAMC7qHsUV3NNQr8xjJ'>
 
-Some variables are strongly correlated within world regions.'Cases' and 'killed and disposed of are perfectly positively correlated in Europe, as was indicative from the baselined time-series plot.
+Some variables are strongly correlated within world regions.'Cases' and 'killed and disposed of' are perfectly positively correlated in Europe, as was indicative from the baselined time-series plot.
 
 <img src = 'https://drive.google.com/uc?id=1zmud3qE-K764Xiyc9cUy1lqM4BPrtq86'>
 
@@ -71,7 +71,7 @@ Some of the main take-home points are:
 
 ## Limitations
 
-More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an $r^{2}$ value of .46. Additional variables such as 'flock count' could improve the model's performance.
+More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an $r^{2}$ value of .46. Additional variables such as 'animal population' and 'environmental factors' could improve the model's performance.
 
 ## Datasets: raw, cleaned, grouped
 
