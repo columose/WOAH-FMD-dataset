@@ -1,4 +1,4 @@
-# World Organisation of Animal Health: Foot and mouth disease dataset project
+# World Organisation for Animal Health: Foot and mouth disease (FMD) dataset project
 
 ## Table of Contents
 * [Summary](#Summary)
