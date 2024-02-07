@@ -53,7 +53,7 @@ Some variables are strongly correlated within world regions.'Cases' and 'killed 
 
 <img src = 'https://drive.google.com/uc?id=1zmud3qE-K764Xiyc9cUy1lqM4BPrtq86'>
 
-A linear regression model revealed the 'case' count predicts 99.8% of variance in 'killed and disposed of' in Europe. In other words, the 3 European countries that have reported FMD outbreaks in the past 20 years have dealt with the outbreaks through culling en-masse.
+A linear regression model revealed the 'case' count predicts 99.8% of variance in 'killed and disposed of' in Europe. In other words, the 3 European countries that have reported FMD outbreaks in the past 20 years have dealt with the rise in cases by increasing culling rates.
 
 <img src = 'https://drive.google.com/uc?id=1-8VmFZr2jAMQYo-PnWEPitq6BvvkuZrQ'>
 
