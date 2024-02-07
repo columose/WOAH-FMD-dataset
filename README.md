@@ -75,8 +75,7 @@ More data is required to perform more advanced regression analyses. A random for
 
 ## Datasets: raw, cleaned, grouped
 
-The raw dataset was sourced from the WOAH's animal information system
- at https://wahis.woah.org/#/dashboards/qd-dashboard.
+The raw dataset was sourced from the [WOAH's animal information system](https://wahis.woah.org/#/dashboards/qd-dashboard).
 
 [Clean data](https://drive.google.com/file/d/1_7HGF96LRCa3UUsiVRKSwSh6lf4mswRV/view?usp=drive_link)
 
