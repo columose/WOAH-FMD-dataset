@@ -40,7 +40,7 @@ were low across Europe and the Americas.
 
 <img src = 'https://drive.google.com/uc?id=1bM-4_XNK9MNdOqeAupqi-LevaY-mzu3v'>
 
-### The top 5 highest slaughtering count events in the dataset occurred in South Africa between 2021-2022.
+The top 5 highest slaughtering count events in the dataset occurred in South Africa between 2021-2022.
 
 <img src = 'https://drive.google.com/uc?id=1-0jQr56Jgou70rgFkQEwXzV57dBFGZny'>
 
