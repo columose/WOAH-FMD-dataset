@@ -13,7 +13,7 @@
 ## Summary
 * The dataset was heavily dominated by FMD incidents in Africa and Asia.
 * Culling appears to be the preferred method to prevent the spread of FMD outbreaks in Europe.
-* Additional data is required to perform regression analyses on worlwide data (e.g. healthy flock count).
+* Additional data is required to perform regression analyses on worlwide data (e.g. animal population).
 
 ## Objectives
 Analyse FMD dataset to explore regional trends over time, determine the efficacy of vaccinations on case and death count, and eluciate the most effective methods for dealing with FMD outbreaks.
@@ -53,7 +53,7 @@ Some variables are strongly correlated within world regions.'Cases' and 'killed 
 
 <img src = 'https://drive.google.com/uc?id=1zmud3qE-K764Xiyc9cUy1lqM4BPrtq86'>
 
-A linear regression model revealed the 'case' count predicts 99.8% of variance in 'killed and disposed of' in Europe. In other words, the 3 European countries that have reported FMD outbreaks in the past 20 years have dealt with the rise in cases by increasing culling rates.
+A linear regression model revealed the 'Cases' count predicts 99.8% of variance in 'killed and disposed of' in Europe. In other words, the 3 European countries that have reported FMD outbreaks in the past 20 years have dealt with the rise in cases by increasing culling rates.
 
 <img src = 'https://drive.google.com/uc?id=1-8VmFZr2jAMQYo-PnWEPitq6BvvkuZrQ'>
 
@@ -71,7 +71,7 @@ Some of the main take-home points are:
 
 ## Limitations
 
-More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an $r^{2}$ value of .46. Additional variables such as 'animal population' and 'environmental factors' could improve the model's performance.
+More data is required to perform more advanced regression analyses. A random forest model using 'Susceptible' and 'Vaccinated' as features and 'New outbreaks' as a predictor yielded an $r^{2}$ value of .46. Additional variables such as 'animal population' and 'mean temperature per month' could improve the model's performance.
 
 ## Datasets: raw, cleaned, grouped
 
