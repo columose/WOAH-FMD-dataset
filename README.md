@@ -9,6 +9,7 @@
 * [Discussion](#Discussion)
 * [Limitations](#Limitations)
 * [Datasets: raw, cleaned, grouped](#Datasets-raw-cleaned-grouped)
+* [Python scripts](#Python-scripts)
 
 ## Summary
 * The dataset was heavily dominated by FMD incidents in Africa and Asia.
@@ -82,4 +83,7 @@ More data is required to perform more advanced regression analyses. A random for
 * [Data summed and grouped by world region for time-series ploting](https://drive.google.com/file/d/1EG-H1wYbE5k1kQ1nsgEmhity_JAHODQK/view?usp=sharing)
 
 * [Data summed and grouped by country for choropleth maps](https://drive.google.com/file/d/1hHRCTFCBasPDwvNNhQSMXMGOKVBAUt50/view?usp=sharing)
+
+## Python scripts
+All of the processing scripts for this project can be retrieved from the repository. Click on the 'Open in Colab' icon for better legibility, as each notebook cell becomes condensed when copying from Google Colab to Github.
 
