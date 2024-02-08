@@ -67,7 +67,7 @@ Some of the main take-home points are:
 
 * The majority of FMD cases and outbreaks occur in Asia.
 * The inexplicably high slaughtering count in South Africa could be followed up on.
-* European countries have dealt with FMD outbreaks through mass culling.
+* European countries have dealt with increases in FMD cases through mass culling.
 
 ## Limitations
 
