@@ -42,7 +42,7 @@ The majority of FMD outbreaks and cases occurred in Africa and Asia, with as few
 Asia experienced a spike in new outbreaks around 2022, coupled by an increase in cases and vaccinated. There was an inexplicably high slaughter rate in Africa that same year, despite the lack of new FWD cases on the continent. Counts
 were low across Europe and the Americas.
 
-<img src = 'https://drive.google.com/thumbnail?id=1bM-4_XNK9MNdOqeAupqi-LevaY-mzu3v'/>
+<img src = 'https://drive.google.com/thumbnail?id=1bM-4_XNK9MNdOqeAupqi-LevaY-mzu3v'>
 
 The top 5 highest slaughtering count events in the dataset occurred in South Africa between 2021-2022.
 
@@ -51,7 +51,7 @@ The top 5 highest slaughtering count events in the dataset occurred in South Afr
 
 Baselining provides a different outlook on the data as trends in Europe and America become visible. There was a very clear spike in 'cases' and 'killed and disposed of' in Europe
 
-<img src = 'https://drive.google.com/uc?id=1CKTJVX-taw5N0PAMC7qHsUV3NNQr8xjJ'>
+<img src = 'https://drive.google.com/uc?export=view&id=1CKTJVX-taw5N0PAMC7qHsUV3NNQr8xjJ'>
 
 Some variables are strongly correlated within world regions.'Cases' and 'killed and disposed of' are perfectly positively correlated in Europe, as was indicative from the baselined time-series plot.
 
