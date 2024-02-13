@@ -33,8 +33,6 @@ Analyse FMD dataset to explore regional trends over time, determine the efficacy
 ## Overview of the dataset
 The majority of FMD outbreaks and cases occurred in Africa and Asia, with as few as 3 European countries reporting outbreaks since 2005.
 
-<img src = 'https://drive.google.com/uc?id=1jt9cwg6YEwzh510e6ZfpmeSB74YtD331'/>
-
 ![Overview](https://github.com/columose/WOAH-FMD-dataset/blob/cd31ba06298a63a29355a8b38817a9349e28c23e/Figure%20output/Country%20count.png)
 
 
@@ -42,28 +40,28 @@ The majority of FMD outbreaks and cases occurred in Africa and Asia, with as few
 Asia experienced a spike in new outbreaks around 2022, coupled by an increase in cases and vaccinated. There was an inexplicably high slaughter rate in Africa that same year, despite the lack of new FWD cases on the continent. Counts
 were low across Europe and the Americas.
 
-<img src = 'https://drive.google.com/thumbnail?id=1bM-4_XNK9MNdOqeAupqi-LevaY-mzu3v'>
+![time-series](https://github.com/columose/WOAH-FMD-dataset/blob/9dd73bfb0fddca4963bdc32ad5e24c45e9770cea/Figure%20output/Grouped%20time-series%20plot.png)
 
 The top 5 highest slaughtering count events in the dataset occurred in South Africa between 2021-2022.
 
-<img src = 'https://drive.google.com/thumbnail?id=1-0jQr56Jgou70rgFkQEwXzV57dBFGZny'>
+![slaughtering](https://github.com/columose/WOAH-FMD-dataset/blob/9dd73bfb0fddca4963bdc32ad5e24c45e9770cea/Figure%20output/Top%205%20slaughtering.png)
 
 
 Baselining provides a different outlook on the data as trends in Europe and America become visible. There was a very clear spike in 'cases' and 'killed and disposed of' in Europe
 
-<img src = 'https://drive.google.com/uc?export=view&id=1CKTJVX-taw5N0PAMC7qHsUV3NNQr8xjJ'>
+![baselining](https://github.com/columose/WOAH-FMD-dataset/blob/9dd73bfb0fddca4963bdc32ad5e24c45e9770cea/Figure%20output/Baselined%20time-series.png)
 
 Some variables are strongly correlated within world regions.'Cases' and 'killed and disposed of' are perfectly positively correlated in Europe, as was indicative from the baselined time-series plot.
 
-<img src = 'https://drive.google.com/uc?id=1zmud3qE-K764Xiyc9cUy1lqM4BPrtq86'>
+![region-heatmaps](https://github.com/columose/WOAH-FMD-dataset/blob/9dd73bfb0fddca4963bdc32ad5e24c45e9770cea/Figure%20output/World%20regions%20correlation%20matrices.png)
 
 A linear regression model revealed the 'Cases' count predicts 99.8% of variance in 'killed and disposed of' in Europe. In other words, the 3 European countries that have reported FMD outbreaks in the past 20 years have dealt with the rise in cases by increasing culling rates.
 
-<img src = 'https://drive.google.com/uc?id=1-8VmFZr2jAMQYo-PnWEPitq6BvvkuZrQ'>
+![regression](https://github.com/columose/WOAH-FMD-dataset/blob/9dd73bfb0fddca4963bdc32ad5e24c45e9770cea/Figure%20output/Regression%20between%20Cases%20and%20Killed%20and%20disposed%20of%20in%20Europe.png)
 
 Choropleth maps provide a nice persective on trends across neighbouring countries. For example, most outbreaks are occuring across neighbouring Asian countries.
 
-<img src = 'https://drive.google.com/uc?id=1s6d97Kls5Z6U7svjdJETS0GD410TWjgw'>
+![choropleth](https://github.com/columose/WOAH-FMD-dataset/blob/9dd73bfb0fddca4963bdc32ad5e24c45e9770cea/Figure%20output/Choropleth%20original.png)
 
 ## Discussion
 
