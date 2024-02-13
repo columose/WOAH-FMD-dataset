@@ -33,7 +33,7 @@ Analyse FMD dataset to explore regional trends over time, determine the efficacy
 ## Overview of the dataset
 The majority of FMD outbreaks and cases occurred in Africa and Asia, with as few as 3 European countries reporting outbreaks since 2005.
 
-<img src = 'https://drive.google.com/uc?id=1jt9cwg6YEwzh510e6ZfpmeSB74YtD331' width = '128'/>
+<img src = 'https://drive.google.com/uc?id=1jt9cwg6YEwzh510e6ZfpmeSB74YtD331'/>
 
 ![Overview](https://github.com/columose/WOAH-FMD-dataset/blob/cd31ba06298a63a29355a8b38817a9349e28c23e/Figure%20output/Country%20count.png)
 
