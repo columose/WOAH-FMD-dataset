@@ -10,6 +10,7 @@
 * [Limitations](#Limitations)
 * [Datasets: raw, cleaned, grouped](#Datasets-raw-cleaned-grouped)
 * [Python scripts](#Python-scripts)
+* [Tableau dashboard](#Tableau-dashboard)
 
 ## Summary
 * The dataset was heavily dominated by FMD incidents in Africa and Asia.
@@ -88,3 +89,5 @@ More data is required to perform more advanced regression analyses. A random for
 ## Python scripts
 All of the processing scripts for this project can be retrieved from the repository. Click on the 'Open in Colab' icon for better legibility, as each notebook cell becomes condensed when copying from Google Colab to Github.
 
+## Tableau dashboard
+The main findings are summarised using a dashboard in [Tableau public](https://public.tableau.com/app/profile/colum.s./viz/WOAHFMDproject/Dashboard)
