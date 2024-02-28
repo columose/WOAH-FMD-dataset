@@ -90,4 +90,4 @@ More data is required to perform more advanced regression analyses. A random for
 All of the processing scripts for this project can be retrieved from the repository. Click on the 'Open in Colab' icon for better legibility, as each notebook cell becomes condensed when copying from Google Colab to Github.
 
 ## Tableau dashboard
-The main findings are summarised using a dashboard in [Tableau public](https://public.tableau.com/app/profile/colum.s./viz/WOAHFMDproject/Dashboard)
+The main findings are summarised using a dashboard in [Tableau public](https://public.tableau.com/app/profile/colum.s./viz/WOAHFMDproject/Dashboard).
